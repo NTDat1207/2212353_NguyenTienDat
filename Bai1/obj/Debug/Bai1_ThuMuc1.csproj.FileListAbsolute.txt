@@ -1,0 +1,10 @@
+C:\Users\PC602\Downloads\2212353_NguyenTienDat_THBuoi3\Bai1\bin\Debug\Bai1.exe.config
+C:\Users\PC602\Downloads\2212353_NguyenTienDat_THBuoi3\Bai1\bin\Debug\Bai1.exe
+C:\Users\PC602\Downloads\2212353_NguyenTienDat_THBuoi3\Bai1\bin\Debug\Bai1.pdb
+C:\Users\PC602\Downloads\2212353_NguyenTienDat_THBuoi3\Bai1\obj\Debug\Bai1_ThuMuc1.csproj.AssemblyReference.cache
+C:\Users\PC602\Downloads\2212353_NguyenTienDat_THBuoi3\Bai1\obj\Debug\Bai1_ThuMuc1.MainForm.resources
+C:\Users\PC602\Downloads\2212353_NguyenTienDat_THBuoi3\Bai1\obj\Debug\Bai1.Properties.Resources.resources
+C:\Users\PC602\Downloads\2212353_NguyenTienDat_THBuoi3\Bai1\obj\Debug\Bai1_ThuMuc1.csproj.GenerateResource.cache
+C:\Users\PC602\Downloads\2212353_NguyenTienDat_THBuoi3\Bai1\obj\Debug\Bai1_ThuMuc1.csproj.CoreCompileInputs.cache
+C:\Users\PC602\Downloads\2212353_NguyenTienDat_THBuoi3\Bai1\obj\Debug\Bai1.exe
+C:\Users\PC602\Downloads\2212353_NguyenTienDat_THBuoi3\Bai1\obj\Debug\Bai1.pdb
